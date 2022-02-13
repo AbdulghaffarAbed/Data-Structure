@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588369328 source:c:\users\user\desktop\project #2\selling shares of stocks\buyong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

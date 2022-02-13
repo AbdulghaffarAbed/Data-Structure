@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589546047 source:c:\users\user\desktop\codeblock\bookstoreproject\main.c
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+

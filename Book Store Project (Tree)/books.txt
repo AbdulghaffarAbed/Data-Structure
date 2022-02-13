@@ -1,0 +1,6 @@
+Math|Abdulrahiem mousa|2030|NIA|Non-fiction
+Algorithms|Mark Weiss|1996|USA|Non-fiction
+Data|aa|2000|KKK|fiction
+Physics|Ghasan Andoni|2002|PSA|fiction
+Circuit Analysis|Wasel Ghamen|1999|ALM|Non-fiction
+Mac|aa|1959|USA|ficiton
